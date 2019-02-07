@@ -26,3 +26,14 @@ function nowServing(katzDeliLine) {
   } else
   return(`The line is currently:` + line);
 }
+
+
+
+function giveanumber(katzDeliLine) {
+  var counter = 0;
+  counter++
+  katzDeliLine.push(counter)
+  
+  
+  
+}
